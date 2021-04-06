@@ -13,6 +13,10 @@
     </a>
 </p>
 
+**Digest Note**
+
+> We forked this version of Codextended from a pull request that added support for nested encoding. Additionally, we added support for optional nested encoding. 
+
 Welcome to **Codextended** — a suite of extensions that aims to make Swift’s `Codable` API easier to use by giving it type inference-powered capabilities and conveniences. It’s not a wrapper, nor is it a brand new framework, instead it augments `Codable` directly in a very lightweight way.
 
 ## Codable is awesome!
